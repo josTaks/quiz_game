@@ -84,7 +84,7 @@ class _QuizAppState extends State<QuizApp> {
     }
 
     return MaterialApp(
-      home: Scaffold(
+      home: Scaffold( //Mon scaffold
         backgroundColor: const Color(0xff32128B),
         body: content,
       ),
