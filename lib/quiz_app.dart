@@ -80,7 +80,7 @@ class _QuizAppState extends State<QuizApp> {
       content = ResultContent(
         reponsesChoisies: reponsesChoisies,
         onReinitialiser: reset,
-      );
+      ); // Un commentaire
     }
 
     return MaterialApp(
